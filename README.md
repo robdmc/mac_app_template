@@ -9,4 +9,5 @@ pip install cookiecutter
 cookiecutter https://github.com/robdmc/mac_app_template.git
 ```
 
+A reasonable resource for icon files is https://www.iconarchive.com/
 
